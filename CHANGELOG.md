@@ -1,3 +1,10 @@
+### [4.1.3](https://github.com/breakingspell/button-card/compare/v4.1.2...v4.1.3) (2025-05-10)
+
+
+### Bug Fixes
+
+* Migrate legacy --paper-item-icon-color to --state-icon-color ([b37e1bd](https://github.com/breakingspell/button-card/commit/b37e1bde5e8f52f7fbf20498745a4f92a9e00adc))
+
 ### [4.1.2](https://github.com/custom-cards/button-card/compare/v4.1.1...v4.1.2) (2024-02-01)
 
 

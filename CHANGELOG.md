@@ -1,3 +1,10 @@
+### [4.1.3](https://github.com/breakingspell/button-card/compare/v4.1.2...v4.1.3) (2025-07-26)
+
+
+### Bug Fixes
+
+* Fix colors ([8685ecb](https://github.com/breakingspell/button-card/commit/8685ecb5b737ac13ea12ff5cf60754687e1c3e0e))
+
 ### [4.1.2](https://github.com/custom-cards/button-card/compare/v4.1.1...v4.1.2) (2024-02-01)
 
 
